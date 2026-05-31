@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student in Quantitative Biology and Bioinformatics at <a href="https://www.unlv.edu/">UNLV</a>
+subtitle: PhD student in Bioinformatics at <a href="https://www.unlv.edu/">UNLV</a>
 
 profile:
   align: right
