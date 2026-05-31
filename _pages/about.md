@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow at <a href="https://www.nitmb.org/">NITMB</a>
+subtitle: PhD student at <a href="https://www.unlv.edu/">UNLV</a>
 
 profile:
   align: right
