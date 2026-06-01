@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate Research Assistant and Ph.D. Student in Bioinformatics at the <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a>
+subtitle: Ph.D. Student in Bioinformatics at the <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a>
 
 profile:
   align: right
