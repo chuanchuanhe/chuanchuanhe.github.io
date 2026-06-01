@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student in Bioinformatics at the <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a>
+subtitle: Ph.D. student in Bioinformatics at the <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a>
 
 profile:
   align: right
