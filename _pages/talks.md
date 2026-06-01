@@ -5,7 +5,7 @@ title: Talks
 description:
 years: [Invited talks, Seminars, Contributed talks, Poster]
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 <!-- _pages/talks.md -->
 <div class="publications">

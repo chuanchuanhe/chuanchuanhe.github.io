@@ -14,6 +14,8 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+nav: true
+nav_order: 1
 ---
 
 I am a postdoctoral fellow at [NITMB](https://www.nitmb.org/) in Chicago. I am part of the [Vitelli Group](https://home.uchicago.edu/~vitelli/index.html) and [Doiron Lab](https://brainmath.bsd.uchicago.edu/) at the University of Chicago. 
