@@ -443,7 +443,10 @@ footer.sticky-bottom {
   padding-top: 25px;
   padding-bottom: 25px;
   font-size: 0.9rem;
-  margin-top: 1.5rem;
+}
+
+.mt-5 {
+    margin-top: 0rem !important; /* Adjust this value to your liking */
 }
 
 // CV
