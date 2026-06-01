@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student in Bioinformatics at the <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a>
+subtitle: Graduate Research Assistant and Ph.D. Student in Bioinformatics at the <a href="https://www.unlv.edu/">University of Nevada, Las Vegas</a>
 
 profile:
   align: right
@@ -20,5 +20,5 @@ I am a postdoctoral fellow at [NITMB](https://www.nitmb.org/) in Chicago. I am p
 
 I work at the interface between the **Statistical Physics** of **Disordered Systems** and complex biological systems, ranging from **Theoretical Community Ecology** to **Neuroscience**. I leverage tools developed for randomly interacting spins to study systems composed of interacting species or neurons. I also draw inspiration from the **non-equilibrium** features of biological systems, such as non-reciprocal interactions, to define novel classes of models with emergent properties that could be widespread in living systems. At NITMB, I'm studying how **spatial structure** impacts the spontaneous activity of biological neural networks. 
 
-I obtained my PhD thesis in **Theoretical Physics** at [École Normale Supérieure](https://www.lpens.ens.psl.eu/) and [Université Paris Cité](https://u-paris.fr/en/), under the supervision of [Giulio Biroli](https://www.lpens.ens.psl.eu/giulio-biroli/) and [Ada Altieri](https://www.adaaltieri.com/).
+I earned my Bachelor of Arts (BA) degree in **Computer Science** at [The University of Virginia](https://www.virginia.edu/). After that, I worked as a software engineer for four years.
 
