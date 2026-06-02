@@ -1,8 +1,0 @@
----
-layout: post
-date: 2026-01-27 18:59:00-0400
-inline: true
-related_posts: false
----
-
-Applications are open for the [INTP Summer School](https://intp.science/en/summer26.html) on Unifying Mathematical Models of Biodiversity.
