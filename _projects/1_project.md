@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/WDS-BC.jpg
+img: assets/img/BC-WDS.jpg
 importance: 1
 category: work
 related_publications: true
