@@ -1,5 +1,8 @@
 <div class="news">
+  {% if page.news_archive %}
   <h2>News <span><a href="/news">[archive]</a></span></h2>
+  {% else %}
+  {% endif %}
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
     <div
