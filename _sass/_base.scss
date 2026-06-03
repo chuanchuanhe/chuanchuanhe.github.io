@@ -637,6 +637,18 @@ footer.sticky-bottom {
   }
 }
 
+
+.news {
+
+  h2 {
+    margin-bottom: 1rem;
+
+    span {
+      font-size: 1rem;
+    }
+  }
+}
+
 // Publications
 
 .publications {
@@ -654,7 +666,7 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
 
     span {
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
   }
 
