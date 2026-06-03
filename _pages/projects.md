@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 <div class="projects">
-   <div class="grid">
+   <div class="grid" style="position: relative; height: 422.667px;">
       {% assign sorted_projects = site.projects | sort: "importance" %}
       {% for project in sorted_projects %}
          {% include projects.liquid %}
