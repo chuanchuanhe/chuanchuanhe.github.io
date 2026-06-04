@@ -120,13 +120,13 @@ let setMermaidTheme = (theme) => {
   }
 };
 
-// let transTheme = () => {
-//   document.documentElement.classList.add("transition");
-//   window.setTimeout(() => {
-//     document.documentElement.classList.remove("transition");
-//   }, 500);
-// };
-let transTheme = () => {};
+let transTheme = () => {
+  document.documentElement.classList.add("transition");
+  window.setTimeout(() => {
+    document.documentElement.classList.remove("transition");
+  }, 500);
+};
+// let transTheme = () => {};
 
 let initTheme = (theme) => {
   if (theme == null || theme == "null") {
