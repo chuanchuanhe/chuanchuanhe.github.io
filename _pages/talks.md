@@ -12,7 +12,7 @@ nav_order: 3
 
 {%- for type in page.types %}
 
-<h2 class="year">{{ type }}</h2>
+<h2 class="bibliography">{{ type }}</h2>
 
 {% bibliography -f talks -q @*[type={{ type }}]* --group_by none %}
 
