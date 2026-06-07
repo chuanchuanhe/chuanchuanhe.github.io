@@ -2,8 +2,8 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: tdb
-types: [Invited talks, Seminars, Contributed talks, Poster]
+description:
+types: [Poster, Seminars, Invited talks, Contributed talks, Invited talks]
 nav: true
 nav_order: 3
 ---
