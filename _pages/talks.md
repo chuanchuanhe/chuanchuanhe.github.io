@@ -10,11 +10,12 @@ nav_order: 3
 <!-- _pages/talks.md -->
 <div class="publications">
 
-{%- for y in page.types %}
-  <!-- <h2 class="year">{{y}}</h2> -->
-  <!-- <h2>{{y}}</h2> -->
-  <!-- <h2 class="bibliography">{{y}}</h2> -->
-  {% bibliography -f talks -q @*[type={{y}}]* %}
+{%- for type in page.types %}
+
+<h2 class="year">{{ type }}</h2>
+
+{% bibliography -f talks -q @*[type={{ type }}]* --group_by none %}
+
 {% endfor %}
 
 </div>
