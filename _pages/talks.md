@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description:
-types: [Poster presentations, Seminars & colloquia, Invited talks, Contributed talks, Invited talks]
+types: [Poster presentations, Seminars & colloquia, Invited talks, Contributed talks]
 nav: true
 nav_order: 3
 ---
