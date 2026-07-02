@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate assistant and a Ph.D. student in Quantitative Biology and Bioinformatics at [UNLV](https://www.unlv.edu/). I am part of the [Han Lab](https://www.unlv.edu/people/mira-han) at UNLV School of Life Sciences. 
+I am a graduate assistant and a Ph.D. student in **Quantitative Biology and Bioinformatics** at [UNLV](https://www.unlv.edu/). I am part of the [Han Lab](https://www.unlv.edu/people/mira-han) at UNLV School of Life Sciences. 
 
 I work at the interface between the **Statistical Physics** of **Disordered Systems** and complex biological systems, ranging from **Theoretical Community Ecology** to **Neuroscience**. I leverage tools developed for randomly interacting spins to study systems composed of interacting species or neurons. I also draw inspiration from the **non-equilibrium** features of biological systems, such as non-reciprocal interactions, to define novel classes of models with emergent properties that could be widespread in living systems. At NITMB, I'm studying how **spatial structure** impacts the spontaneous activity of biological neural networks. 
 
