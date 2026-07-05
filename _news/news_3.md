@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="/assets/img/ISMB20261230HePoster.png" target="_blank">Poster</a>
+<a href="/assets/pdf/ISMB20261230HePoster.pdf" target="_blank">Poster</a>
