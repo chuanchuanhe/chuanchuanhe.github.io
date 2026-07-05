@@ -651,6 +651,15 @@ footer.sticky-bottom {
 
 // Publications
 
+.publications_title {
+  margin-top: 1rem;
+  h2 {
+    margin-bottom: 0.5rem;
+    span {
+      font-size: 1rem;
+    }}
+}
+
 .publications {
   margin-top: 2rem;
 
