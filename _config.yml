@@ -268,8 +268,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Garcia Lorenzana]
-  first_name: [Giulia, G.]
+  last_name: [He]
+  first_name: [Chuanchuan]
 
   style: apa
   locale: en
