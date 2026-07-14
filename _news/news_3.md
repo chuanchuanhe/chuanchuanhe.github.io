@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="/assets/pdf/ISMB20261230HePoster.pdf" target="_blank">Poster</a>
+Presented my poster <a href="/assets/pdf/ISMB20261230HePoster.pdf" target="_blank"><i>'Shared and Distinct Exonic Parts in Alternative Paths of Splicing Bubbles'</i></a> at ISMB 2026 in Washington, D.C.🤩
