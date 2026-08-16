@@ -1106,3 +1106,41 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+
+// CV PDF
+.cv-pdf-note {
+  margin-bottom: 1rem;
+}
+
+.cv-pdf-wrapper {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.cv-pdf-frame {
+  display: block;
+  width: 100%;
+  height: min(85vh, 1000px);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+}
+
+/* iPad / tablet */
+@media (max-width: 768px) {
+  .cv-pdf-frame {
+    height: 80vh;  //means “80% of the visible screen height.”
+  }
+}
+
+/* phone */
+@media (max-width: 480px) {
+  .cv-pdf-frame {
+    height: 72vh;
+    border-radius: 4px;
+  }
+
+  .cv-pdf-note {
+    font-size: 0.9rem;
+  }
+}
