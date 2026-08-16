@@ -11,7 +11,7 @@ description:
 #   sidebar: left
 ---
 
-You can view or download my CV as a PDF.
+<!-- You can view or download my CV as a PDF.
 
 <div class="cv-pdf-buttons">
   <a class="btn btn-sm z-depth-0" href="/assets/pdf/CV-1.pdf" target="_blank" rel="noopener noreferrer">
@@ -23,7 +23,12 @@ You can view or download my CV as a PDF.
   </a>
 </div>
 
-<br>
+<br> -->
+
+<p>
+  If the embedded PDF does not load in your browser, you can
+  <a href="/assets/pdf/CV-1.pdf" target="_blank" rel="noopener noreferrer">open the CV here</a>.
+</p>
 
 <iframe
   src="/assets/pdf/CV-1.pdf"
