@@ -38,7 +38,7 @@ description:
 >
 </iframe>
 
-<p>
+<!-- <p>
   If the embedded PDF does not load in your browser, you can
   <a href="/assets/pdf/CV-1.pdf" target="_blank" rel="noopener noreferrer">open the CV here</a>.
-</p>
+</p> -->
