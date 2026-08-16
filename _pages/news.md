@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News Archive 
+nav_title: News
 description: An archive of all previous announcements.
 permalink: /news/
 nav: true
