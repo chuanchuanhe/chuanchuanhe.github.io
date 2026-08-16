@@ -4,8 +4,8 @@ permalink: /talks/
 title: Talks
 description:
 types: [Poster presentations, Seminars & colloquia, Invited talks, Contributed talks]
-nav: true
-nav_order: 3
+nav: false
+# nav_order: 3
 ---
 <!-- _pages/talks.md -->
 <div class="publications">
